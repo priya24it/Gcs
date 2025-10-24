@@ -1,0 +1,2 @@
+rmdir /s /q "%USERPROFILE%\.dbt"
+rmdir /s /q "%USERPROFILE%\AppData\Local\dbt"
